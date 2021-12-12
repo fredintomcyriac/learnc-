@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-  cout << "tst" << "thisi" <<endl;
+  cout << "tst" << "thi" <<endl;
 }
